@@ -1,0 +1,12 @@
+myObj = {"People":
+        [
+            {
+                "Id": 1,
+                "FirstName": "Joe",
+                "Email": "joe.christensen@siriuscom.com",
+                "Active": true
+            }
+        ]
+}
+
+console.log(typeof myobj.People[0].Id);
