@@ -7,7 +7,7 @@ people:
   LastName: Christensen
   Email: joe.christensen@siriuscom.com
   Active: true
-  QuotedString: "I am the husband."
+  QuotedString: "I am the husband.\nThat's right."
 - Id: 2
   Code: 809.37
   Number: 3088701813
@@ -15,5 +15,5 @@ people:
   LastName: Christensen
   Email: becca.christensen16@gmail.com
   Active: true
-  QuotedString: "I am the wife."
+  QuotedString: "I am the wife.\nThat's wrong."
 ...
