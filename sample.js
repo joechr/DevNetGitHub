@@ -1,5 +1,4 @@
-myObj = {"People":
-[
+myObj = [
             {
                 "Id": 1,
                 "FirstName": "Joe",
@@ -7,7 +6,6 @@ myObj = {"People":
                 "Email": "joe.christensen@siriuscom.com",
                 "Active" : true
             }
-]
-}
+        ]
 
-console.log(typeof myObj.People[0].Active);
+console.log(myObj[0].Email);
